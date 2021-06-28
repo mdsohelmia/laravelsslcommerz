@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Sohel1999\Laravelsslcommerz\Tests;
 
 class ExampleTest extends TestCase
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Sohel1999\Laravelsslcommerz\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelsslcommerzCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravelsslcommerz';
 
     public $description = 'My command';
 
