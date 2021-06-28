@@ -2,9 +2,9 @@
 
 namespace Sohel1999\Laravelsslcommerz;
 
+use Sohel1999\Laravelsslcommerz\Commands\LaravelsslcommerzCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Sohel1999\Laravelsslcommerz\Commands\LaravelsslcommerzCommand;
 
 class LaravelsslcommerzServiceProvider extends PackageServiceProvider
 {
